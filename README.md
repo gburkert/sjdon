@@ -255,7 +255,7 @@ const element =
   [App];
 ```
 
-### Comtrolled Input Elements
+### Controlled Input Elements
 
 This example shows how state hooks can be used to store the current state of input elements. The input elements display the current state. So the state is _the single source of truth_ for the input elements. 
 
